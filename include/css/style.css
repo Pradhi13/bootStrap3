@@ -1,0 +1,94 @@
+body{
+  background: #e2d833;
+  }
+body p{
+  font-size: 20px;
+  }
+#main
+{
+  background-color: #53c354;
+}
+#headerrow img{
+  padding-top: 50px;
+  width:200px;
+  height:300px;
+}
+.p1 li{
+  padding-top: 10px;
+}
+.p2 li{
+  padding-top: 10px;
+}
+.profilehead
+{
+  background-color: #53c354;
+}
+.page-header small
+{
+  color: white;
+}
+.profilecontent strong
+{
+  padding-left: 0px;
+  padding-right: 20px;
+
+}
+.profilecontent li{
+  list-style: none;
+  text-align: justify;
+}
+.profilecontent p{
+  padding-left: 20px;
+}
+.profilecontent .p1
+{
+  float: left;
+}
+.objective
+{
+
+  padding-top: 10px;
+  padding-left: 0px;
+}
+.panelcolumn
+{
+  padding-top: 30px;
+
+}
+.panelcolumn h3
+{
+  text-align: center;
+}
+.subpanelcolumn
+{
+  padding-bottom: 20px;
+}
+
+.tab h4
+{
+  padding-top: 10px;
+}
+#languageknown
+{
+  background-color: #e2d833;
+}
+#languageknown img
+{
+  width:90px;
+  height: 100px;
+}
+.end
+{
+  padding-top: 10px;
+  background-color: #53c354;
+}
+.end div{
+  margin: auto;
+}
+.end a{
+  text-decoration: none;
+  color: black;
+}
+.end p{
+  font-size: 15px;
+}
